@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-11-12 13:38+0100\n"
+"PO-Revision-Date: 2016-11-12 13:39+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+
+#: admin/components/mailchimp-form.php:11
+msgid "Stay updated on Slidebars"
+msgstr "Erfahre das Neuste über Slidebars"
+
+#: admin/components/mailchimp-form.php:13
+msgid "Email Address"
+msgstr "Email Adresse"
+
+#: admin/components/mailchimp-form.php:18
+msgid "First Name"
+msgstr "Vorname"
+
+#: admin/components/mailchimp-form.php:23
+msgid "Last Name"
+msgstr "Nachname"
+
+#: admin/components/mailchimp-form.php:32
+msgid "Subscribe"
+msgstr "Abonnieren"
+
+#: admin/wksl-slidebars-settings.php:32
+msgid "Slidebar 1"
+msgstr "Slidebar 1"
+
+#: admin/wksl-slidebars-settings.php:39
+msgid "Preview mode"
+msgstr "Vorschaumodus"
+
+#: admin/wksl-slidebars-settings.php:47
+msgid "Hide on"
+msgstr "Nicht anzeigen auf"
+
+#: admin/wksl-slidebars-settings.php:55
+msgid "Push content"
+msgstr "Inhalt verschieben"
+
+#: admin/wksl-slidebars-settings.php:63
+msgid "Content overlay"
+msgstr "Inhalt Overlay"
+
+#: admin/wksl-slidebars-settings.php:71
+msgid "Position"
+msgstr "Ausrichtung"
+
+#: admin/wksl-slidebars-settings.php:79
+msgid "Sidebar background"
+msgstr "Sidebar Hintergrund"
+
+#: admin/wksl-slidebars-settings.php:87
+msgid "Icon background"
+msgstr "Icon Hintergrund"
+
+#: admin/wksl-slidebars-settings.php:95
+msgid "Icon color"
+msgstr "Icon Farbe"
+
+#: admin/wksl-slidebars-settings.php:103
+msgid "Icon"
+msgstr "Icon"
+
+#: admin/wksl-slidebars-settings.php:111
+msgid "Custom CSS"
+msgstr "Eigenes CSS"
+
+#: admin/wksl-slidebars-settings.php:139
+msgid "Slidebar Settings"
+msgstr "Slidebar Einstellungen"
+
+#: admin/wksl-slidebars-settings.php:144
+msgid "Save"
+msgstr "Speichern"
+
+#: admin/wksl-slidebars-settings.php:160
+msgid ""
+"Customize your Slidebar using the settings below. If you check preview mode, "
+"only logged in WordPress users will see the slidebar."
+msgstr ""
+"Diese Einstellungen erlauben es das Aussehen und Funktionsweise der Slidebar "
+"anzupassen. Im Vorschaumodus wird die Slidebar nur für eingeloggte WordPress "
+"User angezeigt."
+
+#: admin/wksl-slidebars-settings.php:242
+msgid "left"
+msgstr "links"
+
+#: admin/wksl-slidebars-settings.php:243
+msgid "right"
+msgstr "rechts"
+
+#: admin/wksl-slidebars-settings.php:286
+msgid "Search icons by name..."
+msgstr "Suche nach Icons..."
+
+#: admin/wksl-slidebars-settings.php:288
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: admin/wksl-slidebars-settings.php:288 admin/wksl-slidebars-settings.php:296
+msgid "icons"
+msgstr "Icons"
+
+#: admin/wksl-slidebars-settings.php:296
+msgid "WordPress"
+msgstr "WordPress"
+
+#: admin/wksl-slidebars-sidebars.php:28 admin/wksl-slidebars-sidebars.php:30
+msgid "Slidebar"
+msgstr "Slidebar"
+
+#: includes/wksl-slidebars-loader.php:37
+msgid ""
+"In preview mode, the slidebar is only visible to logged in WordPress Users."
+msgstr ""
+"Im Vorschaumodus ist die Slidebar nur für eingeloggte WordPress User "
+"sichtbar."
+
+#: includes/wksl-slidebars-loader.php:38
+msgid "Define all pages on which the slidebar should not be visible."
+msgstr ""
+"Wähle alle Seiten aus, auf denen diese Slidebar nicht angezeigt werden soll."
+
+#: includes/wksl-slidebars-loader.php:39
+msgid ""
+"Decide wether this slidebar should overlap or push the content of your "
+"website"
+msgstr ""
+"Entscheide ob diese Slidebar den Inhalt deiner Website überlappen oder zur "
+"Seite schieben soll."
+
+#: includes/wksl-slidebars-loader.php:40
+msgid ""
+"Creates a soft overlay over the main content while the slidebar is active."
+msgstr ""
+"Lenkt den Fokus durch einen leichten Overlay auf die Slidebar, wenn diese "
+"aktiv ist."
+
+#~ msgid "Stay updated on our plugins"
+#~ msgstr "Erfahre das Neuste über unsere Plugins"
+
+#~ msgid "Background Color"
+#~ msgstr "Hintergrundfarbe"
+
+#~ msgid "Color"
+#~ msgstr "Farbe"
+
+#~ msgid "Configure your Slidebar to look and work exactly how you want it to."
+#~ msgstr "Konfiguriere die Slidebar nach deinen Bedürfnissen."
+
+#~ msgid "Customize your Slidebar"
+#~ msgstr "Konfiguriere deine Slidebar"

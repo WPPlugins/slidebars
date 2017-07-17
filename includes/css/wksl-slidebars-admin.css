@@ -1,0 +1,117 @@
+/*
+ * WK Slidebars
+ * Admin CSS
+ * loaded on settings page wk-slidebars
+ */
+
+.wk-json-setting #page_id {
+  float: left;
+}
+
+.wk-json-setting .wk-json-value-adder,
+.wk-json-setting .wk-json-value-remover {
+  background-color: white;
+  width: 25px;
+  height: 25px;
+  display: inline-block;
+  border-radius: 100%;
+  line-height: 24px;
+  text-align: center;
+  cursor: pointer;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+  font-size: 19px;
+  margin-left: 10px;
+  margin-top: 3px;
+  transition: .3s;
+}
+
+.wk-json-setting .wk-json-value-adder:hover,
+.wk-json-setting .wk-json-value-remover:hover {
+  box-shadow: 0 5px 11px 0 rgba(0,0,0,0.18),0 4px 15px 0 rgba(0,0,0,0.15);
+}
+
+.wk-json-setting .wk-json-value-display {
+  clear: left;
+}
+
+.wk-select-setting .wk-select-value-option.active {
+  color: lightgreen;
+}
+
+.wk-select-setting .wk-select-options-container {
+  max-width: 500px;
+  height: 300px;
+  overflow-y: scroll;
+  font-size: 30px;
+  color: #999;
+}
+
+.wk-select-setting .wk-select-options-container .wk-select-value-option {
+  cursor: pointer;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+  font-size: 28px;
+}
+
+.wk-select-setting .wk-select-options-container .wk-select-value-option.active {
+  color: black;
+  background-color: white;
+  box-shadow: inset 0px 0px 0px 2px black;
+}
+
+.wk-setting-radio {
+  float: left;
+}
+
+.wk-setting-radio:first-child {
+  margin-right: 10px;
+}
+
+.wk-json-value-item {
+  list-style: initial;
+  margin-left: 28px;
+}
+
+.wk-textarea-setting {
+  width: 400px;
+  height: 200px;
+}
+
+/*====================GRID=================*/
+
+@media screen and (min-width: 768px) {
+
+  .wk-left-part,
+  .wk-right-part {
+    display: inline-block;
+  }
+
+  .wk-left-part {
+    width: 70%;
+    vertical-align: top;
+  }
+
+  .wk-right-part {
+    width: 25%;
+    vertical-align:top;
+  }
+
+}
+
+/*==============MAILCHIMP==================*/
+
+#mc_embed_signup .mc-field-group label {
+  width: 100px;
+  display: inline-block;
+}
+
+#mc_embed_signup .mc-field-group {
+  margin-bottom: 5px;
+}
+
+#mc_embed_signup .mc-field-group .asterisk {
+  margin-left: 5px;
+  color: red;
+}
